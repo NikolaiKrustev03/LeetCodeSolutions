@@ -1,4 +1,4 @@
-# Own pow(x,n( fnction
+# Own pow(x,n) function
 
 ## Description
 Implement own pow(x,n), which calculates x raised to the power n (i.e., xn).
