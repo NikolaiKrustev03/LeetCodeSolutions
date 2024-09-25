@@ -33,10 +33,4 @@ class Solution {
         }
     }
 
-    public static void main(String[] args) {
-        Solution solution = new Solution();
-        System.out.println(solution.reverse(1234));  // Output: 4321
-        System.out.println(solution.reverse((int) Math.pow(2, 39)));  // Output: 0
-        System.out.println(solution.reverse(-2345));  // Output: -5432
-    }
 }
